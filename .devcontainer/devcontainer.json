@@ -1,0 +1,7 @@
+{
+	"name": "ruby-test",
+	"build": {
+		"dockerfile": "Dockerfile",
+		"args": { "VARIANT": "3-bullseye" }
+	}
+}
